@@ -28,7 +28,7 @@ public class Main {
         msg1.setStudentName("Zeyad");
         a.sendToOther(msg1);
 
-        msg1.setSender(b);
+        msg1.setSender(b); 
         msg1.setStudentID("120191424");
         msg1.setStudentName("Mohammed");
 
